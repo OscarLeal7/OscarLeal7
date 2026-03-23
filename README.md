@@ -90,6 +90,6 @@ Writing clean code is table stakes. What matters is:
 *Open to high-impact opportunities — remote or hybrid.*  
 *Let's build something that matters.*
 
-**[→ Connect on LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HERE)**
+**[→ Connect on LinkedIn](https://linkedin.com/in/oscar-leal-326032107)**
 
 </div>
