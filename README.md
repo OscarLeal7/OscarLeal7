@@ -1,17 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=OSCAR%20LEAL&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=Principal%20Full-Stack%20%26%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
 
-```
-░█████╗░░██████╗░█████╗░░█████╗░██████╗░    ██╗░░░░░███████╗░█████╗░██╗░░░░░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗    ██║░░░░░██╔════╝██╔══██╗██║░░░░░
-██║░░██║╚█████╗░██║░░╚═╝███████║██████╔╝    ██║░░░░░█████╗░░███████║██║░░░░░
-██║░░██║░╚═══██╗██║░░██╗██╔══██║██╔══██╗    ██║░░░░░██╔══╝░░██╔══██║██║░░░░░
-╚█████╔╝██████╔╝╚█████╔╝██║░░██║██║░░██║    ███████╗███████╗██║░░██║███████╗
-░╚════╝░╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝    ╚══════╝╚══════╝╚═╝░░╚═╝╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Principal+Full-Stack+%26+Systems+Engineer;Multi-Tenant+SaaS+Architect;AI-Native+Systems+Builder;Deterministic+Logic.+Enforced+Security.+Real-Time+Scale." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Multi-Tenant+SaaS+Architect;AI-Native+Systems+Builder;Deterministic+Logic.+Enforced+Security.+Real-Time+Scale." alt="Typing SVG" />
 
 <br/>
 
@@ -149,7 +140,7 @@ strict security boundaries, and designing systems that scale effortlessly.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarLeal7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=OscarLeal7&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=OscarLeal7&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
 </div>
 
