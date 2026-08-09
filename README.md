@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=OSCAR%20LEAL&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=Principal%20Full-Stack%20%26%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=OSCAR%20LEAL&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=Principal%20Full-Stack%20and%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Multi-Tenant+SaaS+Architect;AI-Native+Systems+Builder;Deterministic+Logic.+Enforced+Security.+Real-Time+Scale." alt="Typing SVG" />
 
